@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Harsh — Exploring Data, ML & Visualization</h1>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3E5MWU3cGVvcjN2OXhreWl4OGc1bnF1dzIyZnh3bnVxbXo1ZXhhcyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/lJNoBCvQYp7nq/giphy.gif" width="320"/>
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnU4OXEybGppenBkYWplMzN1Ym5zZmt6dDJnN2F4Y24zcG90a21sbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JIX9t2j0ZTN9S/giphy.gif" width="320"/>
 </div>
 
 <br/>
